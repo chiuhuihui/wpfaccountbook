@@ -1,0 +1,17 @@
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\item.g.cs
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\item.baml
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\WeiZhao\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
